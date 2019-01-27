@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `exec(foo) Blog`,
     author: `Patrick Niklaus`,
-    description: `A blog about creating software. Opinions are my own. `,
+    description: `A blog about creating software. Opinions are my own.`,
     siteUrl: `https://blog.execfoo.de/`,
     social: {
       twitter: `execfoo`,
